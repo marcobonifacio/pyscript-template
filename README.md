@@ -1,2 +1,2 @@
 # Pyscript Template
-A templare for [PyScript](https://pyscript.net/).
+A template for [PyScript](https://pyscript.net/).
